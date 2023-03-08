@@ -1,1 +1,1 @@
-![https://luminsports.com](https://d35y39qbbjp15o.cloudfront.net/lumin/strap/black-primary-256x75.png)
+![https://luminsports.com](https://assets.luminsports.com/logo/lumin/strap/black-primary-256x75.png#gh-light-mode-only)![https://luminsports.com](https://assets.luminsports.com/logo/lumin/strap/white-primary-256x75.png#gh-dark-mode-only)
